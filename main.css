@@ -262,10 +262,10 @@ content {
     top: 25px;
     left: 20px;
 }
-
-.picture {
+content.picture {
+  position: absolute;
   justify-content: center;
-  width: 200px;
+  width: 400px;
   height: auto;
   margin-top: 20px;
   margin-bottom: 20px;
