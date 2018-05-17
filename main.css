@@ -265,8 +265,8 @@ content {
 
 .picture {
   justify-content: center;
-  width = 200px;
-  height = auto;
+  width: 200px;
+  height: auto;
   margin-top: 20px;
   margin-bottom: 20px;
 }
