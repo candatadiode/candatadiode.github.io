@@ -264,8 +264,7 @@ content {
     left: 20px;
 }
 .picture {
-  position: absolute;
-  justify-content: center;
+  align: middle;
   width: 400px;
   height: auto;
   margin-top: 20px;
