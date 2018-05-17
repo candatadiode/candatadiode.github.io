@@ -29,6 +29,7 @@ h1{
 .page-title {
   text-align: center;
   font-weight: 300;
+  margin-left: 20px;
 }
 
 .page-description {
@@ -262,7 +263,7 @@ content {
     top: 25px;
     left: 20px;
 }
-picture {
+.picture {
   position: absolute;
   justify-content: center;
   width: 400px;
