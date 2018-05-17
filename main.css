@@ -263,6 +263,14 @@ content {
     left: 20px;
 }
 
+.picture {
+  justify-content: center;
+  width = 200px;
+  height = auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 
 /* FOOTER NAVIGATION */
 
