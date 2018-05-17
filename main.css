@@ -262,7 +262,7 @@ content {
     top: 25px;
     left: 20px;
 }
-content.picture {
+picture {
   position: absolute;
   justify-content: center;
   width: 400px;
